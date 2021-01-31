@@ -1,0 +1,41 @@
+SO2     CO	    NO	    NO2	    PM10	NOx	    O3	    Veloc.	Direc.	Temp.	H.Rel.	Pres.	R.Sol.	Precip.	PM2.5	PM1
+µg/m³	mg/m³	µg/m³	µg/m³	µg/m³	µg/m³	µg/m³	m/s	    grados	°C	    % H.R.	mb	    W/m²	l/m²	µg/m³	µg/m³
+
+----
+
+SO2, µg/m³;
+CO, mg/m³;
+NO, µg/m³;
+NO2, µg/m³;
+PM10, µg/m³;
+NOx, µg/m³;
+O3, µg/m³;
+Veloc., m/s;
+Direc., grados;
+Temp., °C;
+H.Rel., % H.R.;
+Pres., mb;
+R.Sol., W/m²;
+Precip., l/m²;
+PM2.5, µg/m³;
+PM1, µg/m³;
+
+----
+
+Dióxido de Azufre / Диоксид серы
+Dióxido de Nitrógeno / диоксид азота
+Dirección de viento / Направление ветра
+Humedad relativa / Относительная влажность
+Monóxido de Carbono / Монооксид углерода
+Monóxido de Nitrógeno / окись азота
+Oxidos de Nitrógeno totales / Всего оксидов азота
+Ozono / Озон
+Partículas en Suspensión (< 1µm) / Частицы в суспензии (<1 мкм)
+Partículas en Suspensión (< 10 µm) / Частицы в суспензии (<10 мкм)
+Partículas en Suspensión (< 2,5 µm) / Частицы в суспензии (<2,5 мкм)
+Precipitación / Атмосферные осадки
+Presión barométrica / Барометрическое давление
+Radiación solar / Солнечная радиация
+Temperatura media / Средняя температура
+Velocidad de viento - Скорость ветра
+
