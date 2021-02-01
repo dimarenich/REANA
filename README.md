@@ -1,2 +1,2 @@
 # REANA
-Aplicaciones para la recogida de información estadística y análisis de datos sobre España.
+Application for collecting statistical information and data analysis for various sectors of the country of Spain.
