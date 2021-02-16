@@ -133,3 +133,6 @@ dmypy.json
 *.code-workspace
 *.workspace
 
+# DATASET Ignore
+.data/
+.air_quality/data/
